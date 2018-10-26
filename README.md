@@ -1,4 +1,4 @@
-### The Application that to download mp3 from Youtube according your input 
+### The Application that to download mp3 from Youtube according your input(it may be singer/or song's name)
 
 ### Requirements
 
